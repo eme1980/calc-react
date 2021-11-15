@@ -9,7 +9,7 @@ It's a nice exercise to handle states and start working with components in react
 
 ### Pre-requisites 📋
 
-You're going to need [React](https://www.react.org) installed and [npm](https://www.npmjs.com) in order to run the project.
+You're going to need [Node](https://www.nodejs.org) installed and [npm](https://www.npmjs.com) in order to run the project.
 
 ### Instalation 🔧
 
